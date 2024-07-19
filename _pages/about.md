@@ -14,7 +14,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Je suis géomaticien, spécialisé dans la collecte, le traitement et la valorisation des données géospatiales. En tant qu'ingénieur d'études pour des laboratoires de recherche, j'ai pour mission de transformer ces données en cartes et visualisations percutantes. Mon travail contribue à mettre en valeur les résultats de nos recherches et à faciliter leur compréhension et leur impact. 
