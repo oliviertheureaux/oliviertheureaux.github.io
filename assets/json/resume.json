@@ -46,23 +46,31 @@
     {
       "name": "Quels potentiels de trafic régulier pour les lignes de desserte fine du territoire : une proposition de méthodologie",
       "releaseDate": "2024-07-03",
-      "summary": "Nous proposons une méthode permettant d’estimer le potentiel de voyageurs dans le cadre d’une éventuelle mise en place du train léger innovant. Les acteurs publics pourraient ainsi définir des priorités parmi les investissements à consentir."
+      "summary": "Communication dans le cadre des JMRST, Toulouse. Nous proposons une méthode permettant d’estimer le potentiel de voyageurs dans le cadre d’une éventuelle mise en place du train léger innovant. Les acteurs publics pourraient ainsi définir des priorités parmi les investissements à consentir."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Revisiter le modèle de « nœud-lieu » pour évaluer et classifier les quartiers de gare de la région Hauts-de-France",
+      "releaseDate": "2024-06-21",
+      "url": "https://enpc.hal.science/hal-04620714",
+      "summary": "Communication dans un congrès. Revisiter le modèle de « nœud-lieu » pour évaluer et classifier les quartiers de gare de la région Hauts-de-France. Les variations de l'insertion urbaine des gares françaises et leur classification, Séminaire du Laboratoire Ville Mobilité Transport."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Caractérisation des formes du relief à l’échelle de bassins-versants",
+      "publisher": "RZine",
+      "releaseDate": "2023-05-03",
+      "url": "https://rzine.fr/docs/20230425_geomorphon/index.html",
+      "summary": "Cet article méthodologique présente une méthode de caractérisation des formes du relief à l’échelle de bassins-versants. La méthode utilise l’algorithme geomorphons pour identifier les caractéristiques topographiques d’un terrain à partir de données issues d’un modèle numérique de terrain. Les résultats peuvent être utilisés pour cartographier et analyser les paysages à différentes échelles géographiques."
+    },
+      {
+      "name": "How to Quantify the Dynamics of Single (Straight or Sinuous) and Multiple (Anabranching) Channels from Imagery for River Restoration",
+      "publisher": "MDPI",
+      "releaseDate": "2021-07-01",
+      "url": "https://www.mdpi.com/2076-3417/11/17/8075",
+      "summary": "Cet article méthodologique présente une méthode de caractérisation des formes du relief à l’échelle de bassins-versants. La méthode utilise l’algorithme geomorphons pour identifier les caractéristiques topographiques d’un terrain à partir de données issues d’un modèle numérique de terrain. Les résultats peuvent être utilisés pour cartographier et analyser les paysages à différentes échelles géographiques."
     }
   ],
+
+  
   "skills": [
     {
       "name": "Géomatique",
