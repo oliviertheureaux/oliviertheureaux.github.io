@@ -1,123 +1,52 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Olivier Theureaux",
+    "label": "Cartographe/géomaticien",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "olivier.theureaux@gmail.com",
+    "url": "https://oliviertheureaux.github.io/",
+    "summary": "En tant que cartographe géomaticien, j'utilise une panoplie d'outils tels que les systèmes d'information géographique (SIG) et divers langages de programmation pour créer des cartes. Ces cartes visent à offrir une meilleure compréhension des phénomènes et des organisations territoriales complexes.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": "Ile-de-France"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "OlivierTheureaux",
+        "url": "https://twitter.com/otheureaux"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Laboratoire Ville, Mobilité, Transport",
+      "position": "Ingénieur d'études",
+      "url": "https://lvmt.fr",
+      "startDate": "2023-12-01",
+      "summary": "Dans le cadre du projet TLI financé par l’ADEME, je participe à un travail d’évaluation de la pertinence du positionnement des points d’arrêt par rapport à la répartition des populations et des générateurs de trafic sur un certain nombre de corridors susceptibles d’être desservis par train léger en France, et des corridors équivalents à l’étranger.",
+      "highlights": ["Géomatique"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Université Paris-Cité",
+      "location": "Paris, France",
+      "url": "https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-humaines-et-sociales-SHS/geographie-amenagement-environnement-et-developpement-K2VO0KVP/master-gaed-parcours-dynamique-des-milieux-a-risques-dynarisk-m2-JRS2DNF6.html",
+      "area": "Dynamique des milieux à risques",
+      "studyType": "Master 2",
+      "startDate": "2020-09-01",
+      "endDate": "2022-06-30",
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Quels potentiels de trafic régulier pour les lignes de desserte fine du territoire : une proposition de méthodologie",
+      "releaseDate": "2024-07-03",
+      "summary": "Nous proposons une méthode permettant d’estimer le potentiel de voyageurs dans le cadre d’une éventuelle mise en place du train léger innovant. Les acteurs publics pourraient ainsi définir des priorités parmi les investissements à consentir."
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
@@ -136,22 +65,23 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Géomatique",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "SIG",
+        "Langage R",
+        "Analyses vectorielles",
+        "Objets raster",
+        "Statistiques descriptives",
+        "Machine learning",
+        "cartographie interactive"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Français",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -161,40 +91,15 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+
+
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "TELLi",
+      "summary": "Le TGV et les trains régionaux maillent les villes et les métropoles mais ils sont surdimensionnés pour les petites lignes qui irriguent le territoire et notamment les zones rurales. Faire circuler un TER classique représente des coûts d’exploitation et d’entretien importants, parfois décalés par rapport aux besoins des territoires. La grande idée de TELLi, c’est de proposer une nouvelle approche qui intègre matériel roulant, infrastructure et exploitation pour réduire les coûts globaux, et donc faire circuler plus de trains. TELLi complètera ainsi l’offre TGV et TER.",
+      "highlights": ["Décarbonation", "Transport en commun"],
+      "startDate": "2023-01-01",
+      "url": "https://www.groupe-sncf.com/fr/innovation/interview-directeur-telli"
     }
   ]
 }
