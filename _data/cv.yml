@@ -20,7 +20,7 @@
 
     - title: Géographe - Géomaticien | <i>Geographer - Geomatics engineer</i>
       institution: 6t-Bureau de recherche
-      year: 2023
+      year: - 2023
       
    - title: Ingénieur d'études | <i>Geographer - Geomatics engineer</i>
       institution: CNRS - UMR LADYSS
@@ -28,7 +28,7 @@
 
    - title: Stagiaire géomaticien | <i>Geomatics intern</i>
      institution: CNRS - UMR PRODIG
-     year: 2022
+     year: - 2022
       
 - title: Formation
   type: time_table
@@ -46,7 +46,7 @@
       description:
         - Mention Bien
 
-- title: Other Interests
+- title: Loisirs
   type: list
   contents:
     - <u>Loisirs:</u> Initiateur au Club alpin français (encadrant sur site artificiel d’escalade)
