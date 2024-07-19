@@ -2,7 +2,7 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: Ingénieur d'études | <a href='https://www.lvmt.fr/'>Laboratoire Ville, Mobilité, Transport</a> | <a href='https://www.railenium.eu/'>Railénium</a> 
+subtitle: Ingénieur d'études | <a href='https://www.lvmt.fr/'>Laboratoire Ville, Mobilité, Transport</a> | <a href='https://www.railenium.eu/'>IRT Railénium</a> 
 
 profile:
   align: right
