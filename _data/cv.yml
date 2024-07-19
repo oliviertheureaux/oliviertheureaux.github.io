@@ -18,9 +18,13 @@
         - Ingénieur d'études
         - Collecte et analyse de données sur le contexte territorial de gares ferroviaires
 
-    - title: Chercheur CNRS en délégation | <i>CNRS researcher</i>
-      institution: UMR 5600 EVS - Lyon
-      year: 2020-2022
+    - title: Géographe - Géomaticien | <i>Geographer - Geomatics engineer</i>
+      institution: 6t-Bureau de recherche
+      year: 2023
+      
+   - title: Ingénieur d'études | <i>Geographer - Geomatics engineer</i>
+      institution: CNRS - UMR LADYSS
+      year: 2022 - 2023
       
 - title: Formation
   type: time_table
@@ -29,17 +33,16 @@
       institution: Université Paris-Cité
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Description 1 : Mémoire de master 1 sur la restauration des rivières (16/20)
+        - Description 2 : Mémoire de master 2 sur la dynamique de la forêt pyrénéennes (16/20)
             
-    - title: Licence
+    - title: Licence de géographie
       institution: Université de Rennes 2
       year: 2017-2020
       description:
-        - Description 1.
-        - Description 2.
+        - Mention Bien
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Loisirs:</u> Initiateur au Club alpin français (encadrant sur site artificiel d’escalade)
