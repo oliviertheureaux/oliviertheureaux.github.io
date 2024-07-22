@@ -1,15 +1,15 @@
 "theureaux":
-  - firstname: ["Olivier", "O.", "O. T.", "Olivier Theureaux"]
+  - firstname: ["Olivier", "O."]
     url: https://oliviertheureaux.github.io/cv/
 
 "passy":
-  - firstname: ["Paul", "P.", "P. P.", "Paul Passy"]
+  - firstname: ["Paul", "P."]
     url: https://www.prodig.cnrs.fr/paul-passy/
 
 "feuillet":
-  - firstname: ["Thierry", "T.", "T. F.", "Thierry Feuillet"]
+  - firstname: ["Thierry", "T."]
     url: https://tfeuillet.github.io/
 
 "birre":
-  - firstname: ["Déborah Birre", "D. B.", "D", "Déborah"]
+  - firstname: ["Déborah Birre"]
     url: https://www.linkedin.com/in/d%C3%A9borah-birre/?originalSubdomain=fr
