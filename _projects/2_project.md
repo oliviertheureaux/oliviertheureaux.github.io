@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: UrbaSanté
+description: L’étude UrbASanté s’intéresse à l’impact des transformations urbaines dans les quartiers autour de Porte de la Chapelle sur la qualité de vie, les nuisances environnementales et certains comportements en lien avec la santé (alimentation, activité physique). 
 img: assets/img/3.jpg
 importance: 2
 category: work
