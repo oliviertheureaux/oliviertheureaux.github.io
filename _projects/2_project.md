@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-Cette page a pour but de présenter la méthodologie développée dans le cadre du projet TELLi:   
+Cette page a pour but de présenter la méthodologie développée dans le cadre du projet UrbASanté:   
 **Site du projet : [UrbASanté.fr](https://urbasante.fr/)**  
 **SIG du projet : [SIG](https://otheureaux.gitpages.huma-num.fr/urbasante/)**  
 
