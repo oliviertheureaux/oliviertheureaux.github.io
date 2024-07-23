@@ -12,7 +12,7 @@ Cetta page a pour but de présenter la méthodologie développée dans le cadre 
 **Site du projet : [Analyses TELLi](https://database-sf-otheureaux-30f756d23264983016a72637765047b45aa57e7e.gitpages.huma-num.fr/)**
 
 
-f
+
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
