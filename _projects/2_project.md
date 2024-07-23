@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UrbaSanté
+title: UrbASanté
 description: L’étude UrbASanté s’intéresse à l’impact des transformations urbaines dans les quartiers autour de Porte de la Chapelle sur la qualité de vie, les nuisances environnementales et certains comportements en lien avec la santé (alimentation, activité physique). 
 img: assets/img/3.jpg
 importance: 2
@@ -8,9 +8,14 @@ category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Cette page a pour but de présenter la méthodologie développée dans le cadre du projet TELLi:   
+**Site du projet : [SIG](https://urbasante.fr/)**  
+**SIG du projet : [SIG](https://otheureaux.gitpages.huma-num.fr/urbasante/)**  
+
+
+
+
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
