@@ -8,8 +8,8 @@ category: work
 related_publications: true
 ---
 
-Cetta page a pour but de présenter la méthodologie développée dans le cadre du projet TRANSFOOD:   
-**Site du projet : [Projet TRANSFOOD](https://otheureaux.gitpages.huma-num.fr/transfood/)**
+Cette page a pour but de présenter la méthodologie développée dans le cadre du projet TRANSFOOD:   
+**Site du projet : [Projet TRANSFOOD](https://otheureaux.gitpages.huma-num.fr/transfood/)**  
 **Site des indicateurs : [Indicateurs TRANSFOOD](https://otheureaux.gitpages.huma-num.fr/transfood_indicateurs/)**
 
 
