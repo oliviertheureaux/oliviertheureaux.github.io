@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SpatialTreeP
-description: Mobilité de la limite supérieure de la forêt subalpine dans les Pyrénées : pour une meilleure compréhension des interactions entre changement climatique, mutations anthropiques et effets de site
+description: Mobilité de la limite supérieure de la forêt subalpine dans les Pyrénées, pour une meilleure compréhension des interactions entre changement climatique, mutations anthropiques et effets de site
 img: assets/img/9.jpg
 importance: 2
 category: work
