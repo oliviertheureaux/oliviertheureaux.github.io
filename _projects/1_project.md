@@ -10,7 +10,7 @@ related_publications: true
 
 Cette page a pour but de présenter la méthodologie développée dans le cadre du projet TELLi:   
 **Site du projet : [Analyses TELLi](https://database-sf-otheureaux-30f756d23264983016a72637765047b45aa57e7e.gitpages.huma-num.fr/)**  
-**Cartographie : [Carto TELLi]([https://database-sf-otheureaux-30f756d23264983016a72637765047b45aa57e7e.gitpages.huma-num.fr/](https://carto-tli-otheureaux-97ed8a9cdcbcca25715e51d0bca4025fd538e03b10.gitpages.huma-num.fr/index.html))**  
+**Cartographie : [Carto TELLi](https://carto-tli-otheureaux-97ed8a9cdcbcca25715e51d0bca4025fd538e03b10.gitpages.huma-num.fr/index.html/)**  
 
 
 
