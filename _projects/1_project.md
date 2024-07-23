@@ -1,16 +1,15 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: TELLi
+description: Le Train léger innovant pour les petites lignes
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Cetta page a pour but de présenter la méthodologie développée dans le cadre du projet TLI:   
+https://database-sf-otheureaux-30f756d23264983016a72637765047b45aa57e7e.gitpages.huma-num.fr/
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
