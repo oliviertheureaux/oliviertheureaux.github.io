@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: TRANSFood
+description: Le projet TRANSfood vise à caractériser les transitions alimentaires que nous connaissons actuellement, via une approche multicritères incluant toutes les dimensions soutenables du système alimentaire (sanitaire, socio-économique et environnementale). 
 img: assets/img/4.jpg
 importance: 1
 category: work
