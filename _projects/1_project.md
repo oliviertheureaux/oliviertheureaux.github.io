@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-Cetta page a pour but de présenter la méthodologie développée dans le cadre du projet TELLi:   
+Cette page a pour but de présenter la méthodologie développée dans le cadre du projet TELLi:   
 **Site du projet : [Analyses TELLi](https://database-sf-otheureaux-30f756d23264983016a72637765047b45aa57e7e.gitpages.huma-num.fr/)**
 
 
