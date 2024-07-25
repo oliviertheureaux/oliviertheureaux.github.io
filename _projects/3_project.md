@@ -8,6 +8,6 @@ category: work
 related_publications: true
 ---
 
-Participation aux projets du groupe ElementR
+Participation aux projets du groupe ElementR  
 **Site du projet : [ElementR](https://elementr.hypotheses.org/)**  
 
