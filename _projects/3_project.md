@@ -9,5 +9,5 @@ related_publications: true
 ---
 
 Participation aux projets du groupe ElementR  
-**Site du projet : [ElementR](https://elementr.hypotheses.org/)**  
+**Site du projet : [ElementR](https://elementr.netlify.app/)**  
 
