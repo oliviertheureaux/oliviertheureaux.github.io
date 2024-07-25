@@ -46,6 +46,18 @@
 - title: Formations | <i>Training courses</i>
   type: time_table
   contents:
+    - title: Cartographier et analyser les pratiques des V.T.C. dans les quartiers de gare | <i>R Mapping and analyzing passenger car with driver practices in station areas</i>
+      institution: GDR MAGIS - AR9
+      year: 2023
+      description:
+        - par Marion Albertelli, L.V.M.T. & UMR 8504 Géographie-cités
+    - title: Observable pour les géographes | <i>R Observable for geographers</i>
+      institution: MATE-SHS
+      year: 2023
+      description:
+        - Présentation de la plateforme Observable 
+        - Exploration interactive des données
+        - Ecosystème spatial et bibliothèques (bertin, geotoolbox, geoviz)
     - title: Atelier carto sous R | <i>R cartography workshop</i>
       institution: UMR LADYSS
       year: 2022
