@@ -2,7 +2,7 @@
 layout: page
 title: TELLi
 description: Le Train léger innovant pour les petites lignes
-img: assets/img/12.jpg
+img: assets/img/15.jpg
 importance: 1
 category: work
 related_publications: true
