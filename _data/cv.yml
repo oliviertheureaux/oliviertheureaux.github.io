@@ -43,4 +43,26 @@
         - Récolte, gestion et analyse des données spatialisées issues de collecte de terrain
         - Analyse du transport sédimentaire à partir de modèles numériques de terrain (images raster)
 
+- title: Formations | <i>Training courses</i>
+  type: time_table
+  contents:
+    - title: Atelier carto sous R | <i>R cartography workshop</i>
+      institution: UMR LADYSS
+      year: 2022
+      description:
+        - Principes de la cartographie thématique 
+        - Prise en main d’outils dédiés avec les packages R ‘sf’ et ‘cartography’
+
+- title: Diplômes | <i>Education</i>
+  type: time_table
+  contents:
+    - title: Master 2 de Géographie | <i>Master of Geography</i>
+      institution: Université Paris-Cité
+      year: 2022
+      description:
+        - Master parcours Dynamiques des milieux et risques
+        - Connaissance fine des enjeux physiques des milieux
+        - Compréhension du fonctionnement des milieux naturels et anthropisés par une approche intégrée
+        - connaissance de la gestion des risques
+        - approfondissement des méthodes et outils de la recherche (Statistiques, SIG, Télédétection)
 
