@@ -55,6 +55,16 @@
 - title: Formations | <i>Training courses</i>
   type: time_table
   contents:
+    - title: GWR | <i>R Mapping and analyzing passenger car with driver practices in station areas</i>
+      institution: Groupe ElementR (UMR Géographie-Cités, UMR PRODIG, UAR RIATE)
+      year: 2025
+      description:
+        - par Thierry Feuillet, UMR IDEES
+    - title: Introduction à l'usage des API | <i>R Mapping and analyzing passenger car with driver practices in station areas</i>
+      institution: UMR Géographie-cités, Plateforme géomatique ;  EHESS
+      year: 2025
+      description:
+        - par Mattia Bunel, UMR Géographie-cités, Plateforme géomatique ;  EHESS
     - title: Cartographier et analyser les pratiques des V.T.C. dans les quartiers de gare | <i>R Mapping and analyzing passenger car with driver practices in station areas</i>
       institution: GDR MAGIS - AR9
       year: 2023
