@@ -11,9 +11,18 @@
 - title: Parcours | <i>Experience</i>
   type: time_table
   contents:
+    - title: Ingénieur d'études en sciences de l’information géographique | <i>Research Engineer in geographic information sciences</i>
+      institution: CNRS - CIST
+      year: 2025 -
+      description:
+        - Proposer et appliquer des méthodes et des techniques en collecte, traitement, analyse, représentation et diffusion en sciences de l’information géographique
+        - Identifier les informations géographiques pertinentes pour l'objet d'étude
+        - Aider les équipes de recherche dans le choix des technologies à mettre en œuvre et à constituer des ensembles d'information interopérables et pérennes
+        - Réaliser des traitements sur des informations géographiques
+        
     - title: Géomaticien | <i>Geomatics engineer</i>
       institution: Laboratoire LVMT - IRT Railénium
-      year: 2023 -
+      year: 2023 - 2025
       description:
         - Ingénieur géomaticien
         - Création d'une méthodologie pour la caractérisation du contexte territorial de gares ferroviaires
