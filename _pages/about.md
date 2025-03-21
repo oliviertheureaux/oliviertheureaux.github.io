@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Je suis ingénieur d'études en sciences de l'information géographique, spécialisé dans la collecte, le traitement et la valorisation des données géospatiales. En tant. J'ai pour mission de proposer et appliquer, en interaction avec des équipes de recherche, des méthodes et des techniques en collecte, traitement, analyse, représentation et diffusion en sciences de l'information géographique. Mon travail contribue à mettre en valeur les résultats de recherches académiques et à faciliter leur compréhension et leur impact. Je particie à la valorisation des résultats lors de colloques ou à travers des publications scientifiques. 
+Je suis ingénieur d'études en sciences de l'information géographique, spécialisé dans la collecte, le traitement et la valorisation des données géospatiales. J'ai pour mission de proposer et appliquer, en interaction avec des équipes de recherche, des méthodes et des techniques en collecte, traitement, analyse, représentation et diffusion en sciences de l'information géographique. Mon travail contribue à mettre en valeur les résultats de recherches académiques et à faciliter leur compréhension et leur impact. Je particie à la valorisation des résultats lors de colloques ou à travers des publications scientifiques. 
 
 Grâce à mon expertise, nous sommes en mesure de mieux interpréter les phénomènes géographiques complexes et de communiquer efficacement nos découvertes.
