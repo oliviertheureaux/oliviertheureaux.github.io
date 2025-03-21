@@ -2,13 +2,14 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: Ingénieur d'études en sciences de l'information géographique| <a href='https://www.cist.cnrs.fr/'>FR CIST, CNRS</a> 
+subtitle: Ingénieur d'études en sciences de l'information géographique| <a href='https://www.cist.cnrs.fr/'>CNRS, FR CIST</a> 
 
 profile:
   align: right
   image: photo_identite.png
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>CNRS, FR CIST</p>
     <p>Université Paris Cité, UFR GHES</p>
     <p>8 rue Albert Einstein, Paris 13e</p>
     <p>75205 Paris cedex 13</p>
