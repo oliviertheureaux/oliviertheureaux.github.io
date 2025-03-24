@@ -77,12 +77,14 @@
         - Présentation de la plateforme Observable 
         - Exploration interactive des données
         - Ecosystème spatial et bibliothèques (bertin, geotoolbox, geoviz)
+        - par Nicolas Lambert, CNRS - RIATE
     - title: Atelier carto sous R | <i>R cartography workshop</i>
       institution: UMR LADYSS
       year: 2022
       description:
         - Principes de la cartographie thématique 
         - Prise en main d’outils dédiés avec les packages R ‘sf’ et ‘cartography’
+        - par Thimothée Giraud, CNRS - RIATE
 
 - title: Diplômes | <i>Education</i>
   type: time_table
